@@ -1,3 +1,5 @@
+Magma Encryptor
+
 The Encryption procces
 1: Base64 Encoding, Converts the code into a format that represents binary data using ASCII characters.
 2: Reverse String: Reverses the order of characters in the encoded string.
